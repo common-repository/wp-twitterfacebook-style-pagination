@@ -1,0 +1,84 @@
+@charset "utf-8";
+/**
+ * @package WP Twitter/Facebook Style Pagination
+ * @version 1.0.1
+ * @author Sagar Bhandari <webgig.sagar@gmail.com>
+ */
+
+.wrap{
+	margin-top: 40px;
+}
+
+.wrap p {
+	margin-bottom: 30px;
+}
+
+
+#twg_tfsp_options{
+	float: left;
+	width: 750px;
+	padding-top:20px;
+}
+
+#twg_tfsp_options form{
+	width: 750px;
+}
+
+#twg_tfsp_options form .element{
+	margin-bottom: 20px;	
+	width: 750px;
+}
+
+#twg_tfsp_options form .element label{
+	float:left;
+	width:150px;
+	font-size:12px;
+}
+#twg_tfsp_options form .element span{
+	font-size:11px;
+}
+#donate{
+	float: left;
+	width: 150px;
+	padding-left:20px;
+}
+
+#donate h3{	
+    padding:0px;
+	margin:0px;
+}
+#donate form{
+	padding:0px;
+	margin:0px;
+}
+
+
+.notes{
+	margin-top:20px;
+	
+}
+.notes h4{
+	margin:0px;
+}
+.notes p{ 
+	margin:0px;
+	padding:0px;
+	width:600px;
+	font-size:11px;
+}
+.notes dl{
+	padding:10px;
+}
+
+.notes dl dt{
+	font-weight:bold;
+	font-size:11px;
+}
+
+.notes dl dd{
+	width:450px;
+	display:block;
+	font-size:11px;
+	padding-left:10px;
+}
+
